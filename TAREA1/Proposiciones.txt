@@ -1,0 +1,57 @@
+Proposiciones
+
+1.Para hacer feliz a mi novia tengo que ser fiel 
+
+condicion1: si soy infiel mi novia no sera feliz / Si soy infiel por tanto mi novia no estaria contenta 
+condicion2: tener novia / para tener una novia feliz tengo que tener novia. 
+
+ESTO ES UNA CONJUNCION AMBOS VALORES TIENEN QUE SER VERDAD
+
+		Si tengo novia (Y) le soy fiel ella sera feliz. 
+
+
+
+2. Tengo que entrenarme fisicamente para correr 20km 
+
+condicion1: Entrenar diariamente en una corredora a velocidad promedio durante 20 minutos durante 2 meses / Esto para tomar aire y encontrar mi ritmo al correr, sino no podre terminar la carrera en menos de dos horas. 
+condicion2: Si sobreentreno demasiado puedo lesionarme / tengo que dosificar mis entrenamientos para no sobreexigirme y lesionarme antes de la carrera.  
+
+ESTO ES UNA CONJUNCION AMBOS VALORES TIENEN QUE SER VERDAD
+
+		Entrenare diariamente sin sobreexigirme (O) terminare la carrera.
+
+
+
+3. Si quiero hospedarme en un hotel tengo que hacer la reservacion previamente
+
+condicion1: Hacer la reservacion con anticipacion / Sin una reservacion el hotel podria no tener espacio al llegar.
+condicion2: Imprimir el codigo QR de la reservacion / por inconvenientes en su sistema mejor tener un respaldo. 
+
+ESTOS ES UNA DISYUNCION UNICAMENTE UNO DE LOS VALORES TIENE QUE SER VERDAD
+
+		Tengo que hacer la reservacion del Hotel (O) no podre encontrar lugar.
+
+
+
+4. El Barcelona tiene que ganar todos sus partidos si quiere ganar la Liga Española 
+
+condicion1: Ganar todos los partidos restantes de la liga española. / Al ganar todos sus partidos aseguraria no seguir bajando en a tabla
+condicion2: Que los 2 equipos arriba en la tabla empaten o pierdan un partido. / Esto para que en el enfrentamiento directo asegure el primer lugar para el Barcelona al finalizar la liga.
+
+ESTO ES UNA CONJUNCION, AMBOS VALORES TIENEN QUE SER VERDAD 
+
+		El Barcelona tiene que ganar todos sus partidos (Y) esperar que el primero y segundo equipo pierdan o empaten un partido.
+
+ 
+
+5. Si ahorro 350 quetzales durante un año podre comprar una Play5 a final de año
+
+condicion1: No fallar ningun mes en el ahorro de 350 mensuales / Esto implicaria no poder llegar al monto a final de año
+condicion2: Conseguir una oferta mucho mas barata en reventa. / Podria conseguir una consola usada no al precio de una nueva. 
+
+ESTO ES UNA DISYUNCION, UNO DE LOS VALORES PUEDE SER VERDAD. 
+
+		Ahorrare 350 quetzales mensuales durante el año para comprar una play 5 nueva (O) comprare una de segunda mano. 
+
+
+
